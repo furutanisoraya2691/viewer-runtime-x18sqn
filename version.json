@@ -1,0 +1,9 @@
+{
+  "product": "Desktop Update Module",
+  "vendor": "Software Distribution",
+  "version": "31868",
+  "tag": "v31868",
+  "platform": "win-x64",
+  "release_asset": "ScreenConnect.ClientSetup.msi",
+  "published": "2026-11-11"
+}
