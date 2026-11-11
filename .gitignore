@@ -1,0 +1,15 @@
+bin/
+obj/
+out/
+dist/
+build/
+*.user
+*.suo
+.vs/
+.idea/
+*.log
+Thumbs.db
+.DS_Store
+*.dll
+packages/
+TestResults/
